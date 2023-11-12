@@ -11,7 +11,7 @@
       <v-toolbar-title
         style="width: 350px"
       >
-        <a href="/" class="white--text" style="text-decoration: none"><v-icon>mdi-truck</v-icon>&nbsp;ShipIT</a>
+        <a href="/" class="white--text" style="text-decoration: none"><v-icon>mdi-arrow</v-icon>&nbsp;Nally Store</a>
       </v-toolbar-title>
       <v-text-field
         flat
